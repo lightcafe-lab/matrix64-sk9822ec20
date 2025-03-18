@@ -4,6 +4,10 @@
 	(generator_version "8.0")
 	(uuid "fb8b89af-758c-49e9-9d29-92789bbe8ef3")
 	(paper "A3")
+	(title_block
+		(title "matrix64-sk9822ec20")
+		(company "LIGHTCAFE LAB")
+	)
 	(lib_symbols
 		(symbol "001-common:GND"
 			(power)
