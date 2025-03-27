@@ -1,7 +1,7 @@
 # matrix64-sk9822ec20
  SK9822-EC20を使用した8×8のLEDマトリクスです<br><br>
 LIGHTCAFE LAB LED-Cube ブログページ<br>
-https://lab.lightcafe.co.jp/blog/ledcube-intro<br><br>
+https://lab.lightcafe.co.jp/blog/ledcube-list<br><br>
 
 ![Matrix](image/matrix64thumbnail.png)
 <br>
